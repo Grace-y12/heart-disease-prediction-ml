@@ -95,7 +95,9 @@ Matplotlib & Seaborn
 
 ## 👩‍💻 Author
 Grace Chundu
-Computer Engineering Graduate | AI & Cybersecurity Intern
+
+Computer Engineering Graduate | AI & Cybersecurity Enthusiast 
+
 LinkedIn | GitHub
 
 

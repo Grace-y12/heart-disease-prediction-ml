@@ -21,18 +21,30 @@ You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/ronitf/hear
 
 ## 📁 Project Structure
 ML/
+
 ├── data
+
 |   ├── heart-disease.csv
+
 ├── notebooks
+
 |   ├──01_EDA.ipynb
+
 ├── app.py # Streamlit web app
+
 ├── src/
+
 │ ├── train_model.py # Model training script
+
 │ ├── scaler.pkl # StandardScaler from training
+
 │ ├── heart_model.pkl # Trained model
+
 │ ├── columns.pkl # Column order for input encoding
+
 │ 
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 #### 🛠️ Installation & Usage
@@ -66,6 +78,9 @@ columns.pkl
 
 ## 📷 App Preview
 <img width="975" height="785" alt="image" src="https://github.com/user-attachments/assets/3df255ed-c3c7-4670-959d-d1c618f12b51" />
+
+<img width="975" height="574" alt="image" src="https://github.com/user-attachments/assets/f8d256b6-ecc1-49e7-8ca7-91179f2d52ab" />
+
 
 ## 📦 Built With
 Python
